@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InvoiceCalculator</string>
+    <string name="subtotal_label">Subtotal</string>
+    <string name="discount_percent_label">Discount %</string>
+    <string name="discount_amount_label">Discount Amount</string>
+    <string name="total_label">Total</string>
+    <string name="subtotal_input" />
+    <string name="discount_amount_input" />
+    <string name="total_input" />
+    <string name="plus_one_btn">+</string>
+    <string name="minus_one_btn">-</string>
+    <string name="discount_amount_inp">10%</string>
+    <string name="Test">TEST</string>
+</resources>
